@@ -27,7 +27,7 @@ python3 diarios-impostos-unificado.py --days 7
 python3 diarios-impostos-unificado.py --from 2026-05-29 --to 2026-06-02
 ```
 
-Saída: `saida/diarios/impostos_unificado_*.csv`
+Saída: `saida/diarios/impostos_unificado_*.csv` e `dados_extraidos.txt` (workflow).
 
 ## DO Pernambuco (CEPE)
 

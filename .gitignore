@@ -4,5 +4,6 @@ __pycache__/
 venv/
 env/
 saida/
+dados_extraidos.txt
 .env
 .DS_Store
